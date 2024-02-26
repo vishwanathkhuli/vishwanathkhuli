@@ -3,7 +3,7 @@
 ![Java Developer](https://media.licdn.com/dms/image/D5616AQFhCbhb9doZcw/profile-displaybackgroundimage-shrink_350_1400/0/1680122754282?e=1706745600&v=beta&t=hdAC8p_ebLhcjOL4lSWbbLlsawaHzPDsPxmCpekpDSg)
 
 While I may be a fresher, my dedication to mastering Java is unwavering. I've laid the foundation with a solid understanding of core concepts and now look forward to hands-on experiences that will shape me into a proficient developer.
-<img src='https://media.licdn.com/dms/image/D5616AQFhCbhb9doZcw/profile-displaybackgroundimage-shrink_350_1400/0/1680122754282?e=1714608000&v=beta&t=olnJvPm9hI-DZizGOHbBrvB-WJettM0uQpQjiVmteUs' alt='programmer_image' align='right' width='400'>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1R1BWGg02MswxUbtZRE8Oc&ust=1709035824098000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC7iNz8yIQDFQAAAAAdAAAAABAE' align='right' width='400'>
 Skills: Java/HTML/CSS/JavaScript/DSA
 
 - 🔭 I’m currently working on **Java,Datastructure and algorithms** 
