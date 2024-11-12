@@ -7,8 +7,8 @@ While I may be a fresher, my dedication to mastering Java is unwavering. I've la
 Skills: Java/HTML/CSS/JavaScript/DSA
 
 - 🔭 I’m currently working on **Java,Datastructure and algorithms** 
-- 🌱 I’m currently learning **core Java** 
-- 💬 Ask me about **Java,C,C++,sql,html,css,JavaScript** 
+- 🌱 I’m currently learning **core Java, Spring Boot, React, Bootstrap** 
+- 💬 Ask me about **Java, Spring Boot, JavaScript, sql, html, css, JavaScript** 
 - 📫 How to reach me: **vishwanathkhuli.github@gmail.com**
 - 😄 Pronouns: **he/him** 
 
