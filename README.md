@@ -8,7 +8,7 @@ Skills: Java/HTML/CSS/JavaScript/DSA
 
 - 🔭 I’m currently working on **Java,Datastructure and algorithms** 
 - 🌱 I’m currently learning **core Java, Spring Boot, React, Bootstrap** 
-- 💬 Ask me about **Java, Spring Boot, JavaScript, sql, html, css, JavaScript** 
+- 💬 Ask me about **Java, Spring Boot, JavaScript, sql, html, css, React Js** 
 - 📫 How to reach me: **vishwanathkhuli.github@gmail.com**
 - 😄 Pronouns: **he/him** 
 
