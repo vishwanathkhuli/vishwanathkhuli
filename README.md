@@ -13,7 +13,7 @@ Skills: Java/HTML/CSS/JavaScript/DSA
 - 😄 Pronouns: **he/him** 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishwanathkhuli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vishwanath-khuli-068ab526b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vishwanathkhuli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/vishwanathkhuli1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishwanathkhuli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishwanath-khuli-068ab526b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vishwanathkhuli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/vishwanathkhuli1)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathkhuli)](https://github.com/anuraghazra/github-readme-stats)
 
