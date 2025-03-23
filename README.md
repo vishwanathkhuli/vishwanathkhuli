@@ -1,6 +1,6 @@
 # Hi there 👋, I am Vishwanath
 
-## 🚀 Java Full Stack Developer | React Developer
+## 🚀 React Developer | Java Full Stack Developer
 
 ![Java Developer](https://media.licdn.com/dms/image/v2/D5616AQGC2P3ou2Wd5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735064401407?e=1747872000&v=beta&t=d1ygGP7oxZUiZ3clW7sdyByVXgqQrdUFsdv54UbfyyQ)
 
